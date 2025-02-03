@@ -17,3 +17,12 @@
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+
+
+
+## 변경사항 업데이트
+git status  # 변경 사항 확인
+git add .  # 모든 변경 사항 추가
+git commit -m "Updated project with new folders and files"  # 커밋
+git push origin main  # GitHub에 푸시
