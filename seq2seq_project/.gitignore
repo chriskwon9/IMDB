@@ -1,3 +1,6 @@
 venv/
 venv/lib/python3.9/site-packages/torch/lib/libtorch_cpu.dylib
 venv/lib/python3.9/site-packages/pyarrow/libarrow.1900.dylib
+venv/
+venv/lib/python3.9/site-packages/torch/lib/libtorch_cpu.dylib
+venv/lib/python3.9/site-packages/pyarrow/libarrow.1900.dylib
