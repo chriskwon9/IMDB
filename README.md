@@ -1,4 +1,4 @@
-# LSTM, Seq2Seq, Attention Implmentation
+# LSTM, Seq2Seq, Attention Implementation
 해당 리포지토리는 LSTM, Seq2Seq, Attention에 대한 코드를 담고 있습니다.
 
 ## 📌 Project Description
